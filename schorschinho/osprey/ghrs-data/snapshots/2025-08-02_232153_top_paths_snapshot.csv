@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/schorschinho/osprey,222,123
+/schorschinho/osprey/releases,25,15
+/schorschinho/osprey/releases/tag/v.2.9.0,25,11
+/schorschinho/osprey/tree/develop,22,14
+/schorschinho/osprey/blob/develop/job/OspreyJob.m,10,7
+/schorschinho/osprey/tree/develop/exampledata,9,6
+/schorschinho/osprey/tree/develop/docs,9,5
+/schorschinho/osprey/tree/develop/libraries,9,5
+/schorschinho/osprey/tree/develop/quantify,9,5
+/schorschinho/osprey/issues,7,7
